@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{10A3AAE6-6CDD-725B-11EA-C02ED3575329}") = "Super Manoeuvre", "Assembly-CSharp-firstpass.csproj", "{FD2C26B3-7BA2-3B7C-302A-1CF04E122F1A}"
+EndProject
+Project("{10A3AAE6-6CDD-725B-11EA-C02ED3575329}") = "Super Manoeuvre", "Assembly-CSharp.csproj", "{D6B07D62-868D-FB20-A3DF-75056B6CE6CA}"
+EndProject
+Project("{10A3AAE6-6CDD-725B-11EA-C02ED3575329}") = "Super Manoeuvre", "Assembly-CSharp-Editor.csproj", "{3BC5C8B9-B05F-6BD7-63C3-74D439B7129C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2C26B3-7BA2-3B7C-302A-1CF04E122F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2C26B3-7BA2-3B7C-302A-1CF04E122F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2C26B3-7BA2-3B7C-302A-1CF04E122F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2C26B3-7BA2-3B7C-302A-1CF04E122F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B07D62-868D-FB20-A3DF-75056B6CE6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B07D62-868D-FB20-A3DF-75056B6CE6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B07D62-868D-FB20-A3DF-75056B6CE6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B07D62-868D-FB20-A3DF-75056B6CE6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC5C8B9-B05F-6BD7-63C3-74D439B7129C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC5C8B9-B05F-6BD7-63C3-74D439B7129C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC5C8B9-B05F-6BD7-63C3-74D439B7129C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC5C8B9-B05F-6BD7-63C3-74D439B7129C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
